@@ -17,6 +17,7 @@ class Enemy extends Player {
 
     // On crée les méthodes de la classe Enemy
     // On crée la méthode gagner qui permet de gagner des billes, et qui prend en paramètre un objet de la classe Player
+    // On donne un attribut à la méthode car elle est abstract dans la classe Player, mais on ne l'utilise pas
     public function gagner(Player $hero) {
         // On calcule le nombre de billes gagnées
         $this->setNbBilles($this->getNbBilles()*2);
