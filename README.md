@@ -1,5 +1,13 @@
 # Rendu-PHPOO
 
-## Thomas Marques
+### Description :
+Jeu de billes aléatoire inspiré de la série **Squid Game**
 
-Le jeu se lance depuis le fichier "Game.php"
+### Technologies :
+* PHP
+
+### Lancement :
+Depuis le fichier "Game.php"
+
+### Statut :
+✔️ Terminé
